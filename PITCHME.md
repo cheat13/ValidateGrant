@@ -18,15 +18,15 @@
 
 +++
 
-![](assets/img/Hash(1).PNG)
+![](assets/img/Hash1.PNG)
 
 +++
 
-![](assets/img/Hash(2).PNG)
+![](assets/img/Hash2.PNG)
 
 +++
 
-![](assets/img/Hash(3).PNG)
+![](assets/img/Hash3.PNG)
 
 ---
 
