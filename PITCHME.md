@@ -16,6 +16,18 @@
 
 ![](assets/img/HashConcept.PNG)
 
++++
+
+![](assets/img/Hash(1).PNG)
+
++++
+
+![](assets/img/Hash(2).PNG)
+
++++
+
+![](assets/img/Hash(3).PNG)
+
 ---
 
 ## HMAC
