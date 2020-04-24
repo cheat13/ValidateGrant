@@ -14,6 +14,7 @@
 
 +++
 
+### Concept
 ![](assets/img/HashConcept.PNG)
 
 +++
@@ -34,6 +35,7 @@
 
 +++
 
+### Concept
 ![](assets/img/HMACConcept.PNG)
 
 +++
