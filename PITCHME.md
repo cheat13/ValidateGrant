@@ -32,6 +32,14 @@
 
 ## HMAC
 
++++
+
+![](assets/img/HMACConcept.PNG)
+
++++
+
+![](assets/img/HowToHMACUse.PNG)
+
 ---
 
 ## Derived Key
