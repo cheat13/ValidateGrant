@@ -31,7 +31,7 @@
 ---
 
 ## HMAC
-### (keyed-hash Message Authentication Code or Hash-based Message Authentication Code)
+#### Hash-based Message Authentication Code
 
 +++
 
@@ -52,7 +52,7 @@
 ---
 
 ## Grant
-### (Derived Key)
+### Derived Key
 
 +++
 
@@ -61,7 +61,7 @@
 ---
 
 ## Validate Grant
-### (HMAC + Derived Key)
+### HMAC + Derived Key
 
 +++
 
