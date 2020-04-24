@@ -53,6 +53,12 @@
 ## Validate Grant
 ### (HMAC + Derived Key)
 
++++?color=white
+
+## Subscription
+### (Derived Key)
+![](assets/img/Grant.PNG)
+
 ---
 
 ## Validate Grant
