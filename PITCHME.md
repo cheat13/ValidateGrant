@@ -44,6 +44,10 @@
 
 ## Derived Key
 
++++
+
+![](assets/img/DKey.PNG)
+
 ---
 
 ## Validate Grant
