@@ -53,7 +53,7 @@
 ## Validate Grant
 ### (HMAC + Derived Key)
 
-+++?color=white
++++?color=#EE5D58
 
 ## Subscription
 ### (Derived Key)
