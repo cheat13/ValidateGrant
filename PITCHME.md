@@ -55,8 +55,11 @@
 
 +++?color=#16A085
 
+@snap[north span-50 text-center]
 ## Subscription
 ### (Derived Key)
+Rich Media Support
+@snapend
 
 ![](assets/img/Grant.PNG)
 
