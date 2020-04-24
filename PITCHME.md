@@ -31,7 +31,7 @@
 ---
 
 ## HMAC
-#### (Hash-based Message Authentication Code)
+#### (**H**ash-based **M**essage **A**uthentication **C**ode)
 
 +++
 
