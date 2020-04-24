@@ -14,7 +14,7 @@
 
 +++
 
-![](assets/img/HashConcept.PNG)
+![](assets/img/Hash_Concept.PNG)
 
 +++
 
