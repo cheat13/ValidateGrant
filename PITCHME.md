@@ -46,7 +46,7 @@
 
 +++
 
-![](assets/img/DKey.PNG)
+![](assets/img/DerivedKey.PNG)
 
 ---
 
