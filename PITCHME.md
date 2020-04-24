@@ -1,12 +1,12 @@
-# Validate Grant
+# Validate **Grant**
 
 ---
 
-# Background
+## Background
 
 +++
 
-# DB to Key
+### DB to Key
 
 ---
 
