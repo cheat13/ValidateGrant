@@ -13,8 +13,10 @@
 ## Hash
 
 +++
+@snap[north-west span-50 text-smallcaps text-08]
+Concept
+@snapend
 
-### Concept
 ![](assets/img/HashConcept.PNG)
 
 +++
@@ -34,8 +36,10 @@
 ## HMAC
 
 +++
+@snap[north-west span-50 text-smallcaps text-08]
+Concept
+@snapend
 
-### Concept
 ![](assets/img/HMACConcept.PNG)
 
 +++
