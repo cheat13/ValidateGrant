@@ -12,6 +12,10 @@
 
 ## Hash
 
++++
+
+![](assets/img/HashConcept.PNG)
+
 ---
 
 ## HMAC
@@ -23,7 +27,7 @@
 ---
 
 ## Validate Grant
-### HMAC + Derived Key
+### (HMAC + Derived Key)
 
 ---
 
