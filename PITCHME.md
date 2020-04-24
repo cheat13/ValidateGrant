@@ -1,1 +1,5 @@
-# Validate Grant
+# Validate **Grant**
+
+---
+
+# Background
