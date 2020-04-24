@@ -54,7 +54,7 @@
 ## Validate Grant
 ### (HMAC + Derived Key)
 
-+++?color=#16A085
++++
 
 ![](assets/img/Grant1.PNG)
 
