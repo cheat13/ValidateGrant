@@ -46,8 +46,15 @@
 
 +++
 
-### Derived Key
 ![](assets/img/DerivedKey.PNG)
+
+---
+
+## Grant
+
++++
+
+![](assets/img/Grant1.PNG)
 
 ---
 
@@ -56,7 +63,7 @@
 
 +++
 
-![](assets/img/Grant1.PNG)
+![](assets/img/ValidateGrant.PNG)
 
 ---
 
