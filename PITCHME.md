@@ -13,7 +13,7 @@
 ## Hash
 
 +++
-@snap[north-west span-50]
+@snap[north-west span-50 text-center]
 Concept
 @snapend
 
@@ -36,7 +36,7 @@ Concept
 ## HMAC
 
 +++
-@snap[north-west span-50]
+@snap[north-west span-50 text-center]
 Concept
 @snapend
 
