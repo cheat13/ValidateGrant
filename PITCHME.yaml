@@ -1,4 +1,4 @@
-theme            : night
+theme            : template
 theme-background : [ "#000000" ]
 theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
 theme-byline     : [ "Concert One", "#FFFFFF", "none", "#FBD95E", "100", "100", "0" ]
