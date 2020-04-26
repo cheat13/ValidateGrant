@@ -66,7 +66,3 @@
 +++
 
 ![](assets/img/ValidateGrant.PNG)
-
----
-
-# V-Nut **NuttiCha**
