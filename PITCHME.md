@@ -73,6 +73,7 @@
 
 +++
 
+```cs
 Given:
     Owner: "[O1]/[O2]/.../[On]"
     Grant: "[G1]/[G2]/.../[Gm]"
@@ -98,3 +99,4 @@ for(i=1;;i++) {
         break;
     else break;
 }
+```
