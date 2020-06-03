@@ -76,7 +76,7 @@
 
 @snap[north-west]
 #### Rules of Derived key
-```cs
+```cs zoom-0.5
 Given:
     Owner: "[O1]/[O2]/.../[On]"
     Grant: "[G1]/[G2]/.../[Gm]"
