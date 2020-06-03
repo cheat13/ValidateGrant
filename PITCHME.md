@@ -74,7 +74,46 @@
 +++
 
 
-@snap[south-west span-55]
+@snap[north-west]
+#### Rules of Derived key
+```cs
+Given:
+    Owner: "[O1]/[O2]/.../[On]"
+    Grant: "[G1]/[G2]/.../[Gm]"
+
+for(i=1;;i++) {
+    if (Gi == Oi)
+        owner = "[O1]/[O2]/.../[Oi]"
+        grant = "[G1]/[G2]/.../[Gi]"
+    else if (Grant.length (m) < i)
+        owner = "[O1]/[O2]/.../[Oi-1]/[Oi]"
+        grant = "[G1]/[G2]/.../[Gm]"
+    else if (Owner.length (n) < i)
+        owner = "[O1]/[O2]/.../[On]"
+        grant = "[G1]/[G2]/.../[Gi-1]/[Gi]"
+    else if (Gi != Oi)
+        for (j=i; j > Grant.length (m); j++) {
+            owner = grant = "[G1]/[G2]/.../[Gj]"
+        }
+        for (k=i; k > Owner.length (n); k++) {
+            owner = "[O1]/[O2]/.../[Ok]"
+            grant = "[G1]/[G2]/.../[Gm]"
+        }
+        break;
+    else break;
+}
+```
+@[1-3]
+@[5,25]
+@[5,6-8,25]
+@[5,9-11,25]
+@[5,12-14,25]
+@[5,15-23,25]
+@[5,24,25]
+
+@snapend
+
+@snap[north-east]
 #### Rules of Derived key
 ```cs
 Given:
