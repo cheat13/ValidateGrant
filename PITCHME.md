@@ -73,6 +73,9 @@
 
 +++
 
+
+@snap[south-west span-55]
+#### Rules of Derived key
 ```cs
 Given:
     Owner: "[O1]/[O2]/.../[On]"
@@ -107,3 +110,5 @@ for(i=1;;i++) {
 @[5,12-14,25]
 @[5,15-23,25]
 @[5,24,25]
+
+@snapend
